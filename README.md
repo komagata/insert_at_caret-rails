@@ -1,6 +1,6 @@
 # InsertAtCaret::Rails
 
-TODO: Write a gem description
+Insert string at caret in text area.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add app/assets/javascripts/application.js
+
+    //= require jquery.insert_at_caret
 
 ## Contributing
 
